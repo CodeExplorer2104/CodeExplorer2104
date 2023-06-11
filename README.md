@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayli Ganpat(CodeExplorer2104)</h1>
+<h1 align="center">Hi 👋, I'm Sayli Dhuri(CodeExplorer2104)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeexplorer2104&label=Profile%20views&color=0e75b6&style=flat" alt="codeexplorer2104" /> </p>
