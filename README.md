@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **codeexplorer2104@gmail.com**
 
-- ⚡ Fun fact **I think I can Write!!**
+- ⚡ I love exploring different models, think and invent!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
